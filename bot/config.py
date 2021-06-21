@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1883386045:AAHLaZQNVpyXawzqg2t2s9gndh-BJPH9HSo"
+    APP_ID = "6192340"
+    API_HASH = "7129c4a893b56ca18390c7a7873e7ddf"
+    DATABASE_URL = "https://git.heroku.com/mspyoteshinupbot.git"
+    SUDO_USERS = "1035057916 1638604478" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/joinchat/3Cx-JDKZIgc2ZGVl"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
